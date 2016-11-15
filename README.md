@@ -1,5 +1,5 @@
 # ResponsiveWeb
-Responsive web with image zoom and slideshow. Developed using HTML5, CSS3, Javascript and JQuery
+Responsive web (www.goojoob.es) with image zoom and slideshow. Developed using HTML5, CSS3, Javascript and JQuery
 
 ## Landscape responsive
 ![alt tag](http://goojoob.es/VARIOS/GitHub/WebPortfolio.jpg)<br/><br/>
